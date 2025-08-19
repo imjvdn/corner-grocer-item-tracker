@@ -7,6 +7,17 @@ The Corner Grocer Item Tracking Program is a C++ application designed to analyze
 ### Problem Solved
 Corner Grocer needed a solution to analyze customer purchase patterns to optimize their produce section layout. The program processes chronological purchase data and provides insights into item popularity, enabling data-driven decisions for store layout optimization.
 
+## Screenshots
+
+### Program Menu and Item Search
+![Menu and Search](https://github.com/imjvdn/corner-grocer-item-tracker/blob/main/images/menu-search.png?raw=true)
+
+### Complete Frequency List
+![Frequency List](https://github.com/imjvdn/corner-grocer-item-tracker/blob/main/images/frequency-list.png?raw=true)
+
+### Histogram Visualization
+![Histogram](https://github.com/imjvdn/corner-grocer-item-tracker/blob/main/images/histogram.png?raw=true)
+
 ## Key Features
 
 - **Individual Item Search**: Find frequency of specific grocery items
