@@ -4,8 +4,8 @@ build/
 *.exe
 grocery_tracker
 
-# Data files (optional - uncomment if you don't want to track generated files)
-# data/frequency.dat
+# Generated data files
+data/frequency.dat
 
 # IDE files
 .vscode/
@@ -20,6 +20,3 @@ Thumbs.db
 # Backup files
 *~
 *.bak
-
-# Documentation files for course submission
-Documentation_Word_Content.md
