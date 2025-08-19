@@ -54,8 +54,8 @@ private:
 public:
     // Constructor initializes file names
     GroceryTracker() {
-        inputFileName = "data\\CS210_Project_Three_Input_File.txt";
-        outputFileName = "data\\frequency.dat";
+        inputFileName = "data/CS210_Project_Three_Input_File.txt";
+        outputFileName = "data/frequency.dat";
         loadData();
     }
     
